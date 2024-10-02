@@ -8,7 +8,8 @@ In today's competitive business environment, retaining customers is crucial for 
 
 Although this project focuses on churn analysis for a telecom firm, the techniques and insights are applicable across various industries. From retail and finance to healthcare and beyond, any business that values customer retention can benefit from churn analysis. We will explore the methods, tools, and best practices for reducing churn and improving customer loyalty, transforming data into actionable insights for sustained success.
 
-![e3da6a_d4188d916c7449bcb29e973c8654d50e~mv2](https://github.com/user-attachments/assets/88660485-ec5a-49f5-b9c1-b6c5cfa58ee1)
+![e3da6a_d4188d916c7449bcb29e973c8654d50e~mv2](https://github.com/user-attachments/assets/bbc9c5c1-9bd4-4ca9-8065-be6a5eb18364)
+
 
 ## Project Target
 
